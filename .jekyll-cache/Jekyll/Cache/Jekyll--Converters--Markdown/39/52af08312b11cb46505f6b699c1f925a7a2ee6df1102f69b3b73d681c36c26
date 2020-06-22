@@ -1,0 +1,55 @@
+I"�<p>I’m Kevin Thomas, a software engineer from Seattle, Washington, USA. I develop video games, produce music, and create things.</p>
+
+<h3 id="work-experience">Work Experience</h3>
+
+<h4 id="software-engineer-december-2019---present">Software Engineer (December 2019 - Present)</h4>
+<ul>
+  <li>Working with a full stack Agile team of 4 to develop various enterprise digital marketing applications</li>
+  <li>Utilizing backend technologies such as Go and Node</li>
+  <li>Using React, Javascript, and an in-house UI library for frontend development</li>
+  <li>Performing automated deployments using Docker, Jenkins, Google Cloud Platform, and AWS</li>
+  <li>Writing automated unit, integration, and end-to-end tests using various testing tools</li>
+  <li>Working with a variety of database technologies like Oracle and Postgres</li>
+</ul>
+
+<h4 id="junior-software-engineer-october-2018--december-2019">Junior Software Engineer (October 2018 – December 2019)</h4>
+<ul>
+  <li>Worked on a major upgrade of the Elasticsearch integration of several of our large applications</li>
+  <li>Used Node, PHP, and Go to add backend features to many of our applications</li>
+  <li>Wrote and managed automated test suites using tools such as Mocha, Cucumber, and CircleCI</li>
+  <li>Worked with several databases using SQL and Node</li>
+  <li>Continuously deployed many of our applications using Jenkins</li>
+</ul>
+
+<h4 id="software-engineering-intern-june-2018--september-2018">Software Engineering Intern (June 2018 – September 2018)</h4>
+<ul>
+  <li>Worked with a team of 5 interns to develop a mobile app for affiliate marketers</li>
+  <li>Developed frontend using React and Cordova, wrote tests using Jest, Enzyme, and Appium</li>
+  <li>Implemented back end by creating a Web API Server in Node connected to MongoDB</li>
+  <li>Deployed the server using Docker and Jenkins, setup server tools such as Nginx</li>
+  <li>Practiced Agile by creating sprints, performing daily huddles, and managing a product backlog</li>
+</ul>
+
+<h3 id="computer-skills">Computer Skills</h3>
+<ul>
+  <li>Proficient in programming languages such as JavaScript (Node/React), Go, C#, C++ and HTML/CSS</li>
+  <li>Experience creating and utilizing Web APIs using Node and Go, and writing tests for HTTP servers</li>
+  <li>Versed in deployment technologies such as Docker, Jenkins, Google Cloud Platform, and AWS</li>
+  <li>Competent using database technologies like SQL, MongoDB, Postgres, and Oracle</li>
+  <li>Adept in Git and working in Linux, MacOS, and Windows environments</li>
+</ul>
+
+<h3 id="bean-boy-games-llc">Bean Boy Games LLC</h3>
+<ul>
+  <li>Co-Founded Bean Boy Games, LLC (a small independent video game company) in 2015</li>
+  <li>Released four published video games developed in C# using the Unity game engine</li>
+  <li>Donated all the revenue of our most recent game to RAICES, a refugee and immigrant non-profit</li>
+  <li>Utilized virtual reality technology for three of our video games</li>
+  <li>Experience in audio design and creating music and sound effects for published games</li>
+</ul>
+
+<h3 id="education">Education</h3>
+<ul>
+  <li>Bachelor of Science in Computer Science &amp; Software Engineering – University of Washington</li>
+</ul>
+:ET
