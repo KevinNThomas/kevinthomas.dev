@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Kevin Thomas
 tagline:          'Developer'
 description:      'Software Engineer'
-# url:              https://fongandrew.github.io
+url:              https://kevinthomas.dev
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

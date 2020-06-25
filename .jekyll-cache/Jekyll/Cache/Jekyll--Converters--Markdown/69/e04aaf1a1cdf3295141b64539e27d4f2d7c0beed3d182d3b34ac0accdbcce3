@@ -1,0 +1,31 @@
+I"7<p>I’m Kevin Thomas, a software engineer from Seattle, Washington, USA. I develop video games, produce music, and create things.</p>
+
+<h3 id="links">Links</h3>
+<p><a href="https://gitlab.com/KevinNThomas">GitLab</a></p>
+
+<p><a href="https://github.com/KevinNThomas">GitHub</a></p>
+
+<p><a href="https://www.instagram.com/kevinthomasdev">Development Instagram</a></p>
+
+<p><a href="https://www.facebook.com/kevinthomasdev">Development Facebook</a></p>
+
+<p><a href="https://twitter.com/kevint0517">Development Twitter</a></p>
+
+<h3 id="contact-me">Contact Me</h3>
+<div class="container">
+  <form action="action_page.php">
+
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name.." />
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name.." />
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit" />
+
+  </form>
+</div>
+:ET
