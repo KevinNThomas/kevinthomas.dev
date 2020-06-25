@@ -11,9 +11,9 @@ tags:
 
 Welcome to my new website!
 
-This website is built using [Jekyll](https://jekyllrb.com/), a static site generator. The theme of this website is based off [Hydeout](https://github.com/fongandrew/hydeout) by Andrew Fong.
+This website is built using <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, a static site generator. The theme of this website is based off <a href="https://github.com/fongandrew/hydeout" target="_blank">Hydeout</a> by Andrew Fong.
 
-The repository for this website can be found on GitLab here: <https://gitlab.com/KevinNThomas/kevinthomas.dev>
+The repository for this website can be found on my <a href="https://gitlab.com/KevinNThomas/kevinthomas.dev" target="_blank">Gitlab</a>.
 
 ### Why Jekyll?
 

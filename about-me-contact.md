@@ -10,15 +10,15 @@ I'm Kevin Thomas, a software engineer from Seattle, Washington, USA. I develop v
 <img alt="Mobile home page" src="/assets/images/me.jpg?" width="300px" />
 
 ### Links
-[GitLab](https://gitlab.com/KevinNThomas)
+<a href="https://gitlab.com/KevinNThomas" target="_blank">Gitlab</a>
 
-[GitHub](https://github.com/KevinNThomas)
+<a href="https://github.com/KevinNThomas" target="_blank">GitHub</a>
 
-[Development Instagram](https://www.instagram.com/kevinthomasdev)
+<a href="https://www.instagram.com/kevinthomasdev" target="_blank">Development Instagram</a>
 
-[Development Facebook](https://www.facebook.com/kevinthomasdev)
+<a href="https://www.facebook.com/kevinthomasdev" target="_blank">Development Facebook</a>
 
-[Development Twitter](https://twitter.com/kevint0517)
+<a href="https://twitter.com/kevint0517" target="_blank">Development Twitter</a>
 
 ### Contact Me
 Email me: <a href="mailto:me@kevinthomas.dev">me@kevinthomas.dev</a>

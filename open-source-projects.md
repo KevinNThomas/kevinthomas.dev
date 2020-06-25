@@ -10,7 +10,7 @@ sidebar_sort_order: 4
 #### Overview
 debian-gaming-setup is an interactive shell script for installing recommended tools to game efficiently on the Debian distribution of the Linux operating system. It is licensed under the GNU General Public License (Version 3).
 
-The repository is hosted on GitLab here: <https://gitlab.com/KevinNThomas/debian-gaming-setup>
+The repository is hosted on my <a href="https://gitlab.com/KevinNThomas/debian-gaming-setup" target="_blank">Gitlab</a>.
 
 #### Features
 The script is written in Bash, and guides the user through the installation of the following tools:
