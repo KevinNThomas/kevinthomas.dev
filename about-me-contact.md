@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About Me / Contact
+title: About Me & Contact
 sidebar_link: true
 sidebar_sort_order: 1
 ---
+
+### About Me
 
 I'm Kevin Thomas, a software engineer from Seattle, Washington, USA. I develop video games, produce music, and create things.
 
 <img alt="Mobile home page" src="/assets/images/me.jpg?" width="300px" />
 
-### Links
-<a href="https://gitlab.com/KevinNThomas" target="_blank">Gitlab</a>
+#### Links
+<a href="https://gitlab.com/KevinNThomas" target="_blank">GitLab</a>
 
 <a href="https://github.com/KevinNThomas" target="_blank">GitHub</a>
 

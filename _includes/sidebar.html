@@ -1,21 +1,22 @@
 <div id="sidebar">
-  <header>
-    <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
-      <a href="{{ "/" | relative_url }}">
-        {% unless page.url == "/" %}
-          <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
-        {% endunless %}
-        {{ site.title }}
-      </a>
-    </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
-    <p class="lead">{{ site.description }}</p>
-  </header>
-  {% include sidebar-nav-links.html %}
+    <header>
+        <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
+            <a href="{{ "/" | relative_url }}">
+                {% unless page.url == "/" %}
+                <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
+                {% endunless %}
+                {{ site.title }}
+            </a>
+        </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
+        <p class="lead">{{ site.description }}</p>
+    </header>
+    {% include sidebar-nav-links.html %}
 
-  {% if site.version %}
+    {% if site.version %}
     <span class="site-version">Currently v{{ site.version }}</span>
-  {% endif %}
+    {% endif %}
 
-  {% include sidebar-icon-links.html %}
-  {% include copyright.html %}
+    {% include sidebar-icon-links.html %}
+    {% include tags.html %}
+    {% include copyright.html %}
 </div>

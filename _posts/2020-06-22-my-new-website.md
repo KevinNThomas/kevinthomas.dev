@@ -3,6 +3,7 @@ layout: post
 title: My New Website
 excerpt_separator:  <!--more-->
 tags:
+ - first post
  - web development
  - jekyll
 ---
@@ -19,6 +20,7 @@ The repository for this website can be found on my <a href="https://gitlab.com/K
 
 I wanted to build my website with the tools that satisfied these requirements:
 * Not too much bloat
+* Mobile friendly
 * Quick initial setup
 * Lots of free and open source themes
 * Ability to create a modern, but simple website
@@ -31,8 +33,8 @@ Jekyll and the Hydeout theme met all of these requirements, and they've been gre
 #### Home
 My developer blog, with periodic posts giving updates on the projects I'm working on.
 
-#### About Me
-General information about me.
+#### About Me & contact
+General information about me, links to some of my profiles, and contact information.
 
 #### Résumé
 My professional résumé.
@@ -40,7 +42,7 @@ My professional résumé.
 #### Bean Boy Games
 The video games I've helped develop as apart of my company, Bean Boy Games LLC.
 
-#### Open Source Project
+#### Open Source Projects
 The open source projects I've worked on and are currently working on.
 
 #### Music
@@ -48,3 +50,6 @@ The music I've released (video game soundtracks, albums, etc.)
 
 #### Lightworks
 Information about the music puzzle game I'm currently developing.
+
+#### Tags
+A list of all of my post's tags to help find specific posts.
