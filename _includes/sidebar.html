@@ -3,7 +3,7 @@
         <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
             <a href="{{ "/" | relative_url }}">
                 {% unless page.url == "/" %}
-                <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
+                <!-- <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span> -->
                 {% endunless %}
                 {{ site.title }}
             </a>
@@ -16,7 +16,7 @@
     <span class="site-version">Currently v{{ site.version }}</span>
     {% endif %}
 
-    {% include tags.html %}
     {% include sidebar-icon-links.html %}
+    {% include tags.html %}
     {% include copyright.html %}
 </div>
