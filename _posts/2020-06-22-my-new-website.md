@@ -36,8 +36,8 @@ My developer blog, with periodic posts giving updates on the projects I'm workin
 #### About Me & contact
 General information about me, links to some of my profiles, and contact information.
 
-#### Résumé
-My professional résumé.
+<!-- #### Résumé
+My professional résumé. -->
 
 #### Bean Boy Games
 The video games I've helped develop as apart of my company, Bean Boy Games LLC.

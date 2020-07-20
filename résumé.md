@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: page
 title: Résumé
 sidebar_link: true
 sidebar_sort_order: 2
----
+--- -->
 
 ### Work Experience
 
