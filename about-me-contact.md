@@ -11,10 +11,12 @@ I'm Kevin Thomas, a software engineer from Seattle, Washington, USA. I develop v
 
 <img alt="Mobile home page" src="/assets/images/me.jpg?" width="300px" />
 
-#### Links
-<a href="https://gitlab.com/KevinNThomas" target="_blank">GitLab</a>
+### Links
+<a href="https://gitlab.com/KevinNThomas" target="_blank">GitLab</a> - Preferred place for active development and discussion of my repos
 
-<a href="https://github.com/KevinNThomas" target="_blank">GitHub</a>
+<a href="https://github.com/KevinNThomas" target="_blank">GitHub</a> - Used to contribute to other repos on GitHub and to mirror my GitLab repos
+
+<a href="https://gitea.com/KevinNThomas" target="_blank">Gitea</a> - Used to mirror my GitLab repos should someone prefer the truly free and open source nature of Gitea
 
 <a href="https://www.instagram.com/kevinthomasdev" target="_blank">Development Instagram</a>
 
