@@ -32,6 +32,11 @@ body {
   min-height: 100vh;
 }
 
+@font-face {
+    font-family: 'Abril Fatface';
+    src: url('fonts/AbrilFatface-Regular.ttf') format('truetype');
+}
+
 #sidebar {
   flex: 0 0 auto;
   padding: $section-spacing;
